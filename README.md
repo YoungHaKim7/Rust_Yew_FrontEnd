@@ -46,6 +46,8 @@ We will also need to add the WASM build target by running:
 rustup target add wasm32-unknown-unknown
 ```
 
+https://yew.rs/docs/tutorial
+
 <hr>
 
 ## trunk install
