@@ -25,6 +25,29 @@ trunk serve --open
 
 https://github.com/thedodd/trunk
 
+
+# Setting up
+
+- Prerequisites
+
+This tutorial assumes you're already familiar with Rust. If you're new to Rust, the free Rust Book offers a great starting point for beginners and continues to be an excellent resource even for experienced Rust developers.
+
+Ensure the latest version of Rust is installed by running rustup update or by installing rust if you haven't already done so.
+
+After installing Rust, you can use Cargo to install trunk by running:
+
+```
+cargo install trunk
+```
+
+We will also need to add the WASM build target by running:
+
+```
+rustup target add wasm32-unknown-unknown
+```
+
+<hr>
+
 ## trunk install
 
 ```
