@@ -10,6 +10,10 @@
 
     https://github.com/yewstack/yew
 
+## Yew Tutorial
+
+https://yew.rs/docs/tutorial
+
 <br>
 
 <hr>
