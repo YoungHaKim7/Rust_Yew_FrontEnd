@@ -9,7 +9,12 @@ This template should help get you started developing with Tauri and Yew.
 
 # Install
 
+https://tauri.app/
+
 ```
+cargo install create-tauri-app
+cargo create-tauri-app
+
 PS D:\my_tutorial> cargo create-tauri-app
 ✔ Project name · clickme
 ✔ Choose which language to use for your frontend · Rust - (cargo)
