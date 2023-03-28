@@ -56,3 +56,19 @@ Add the following snippet in the snippet JSON file:
     }
 }
 ```
+
+# VS Code
+
+## Rust-Yew extension
+
+This is a work in progress, and community maintained project! Please see details and direct related bug reports / issues / questions over to the extension's repository
+
+Rust-Yew extension is avaliable on VSC Marketplace, providing syntax highlight, renames, hover, and more.
+
+Emmet support should work out of the box, if not please fall back to edditing the settings.json file:
+
+```
+"emmet.includeLanguages": {
+    "rust": "html",
+}
+```
