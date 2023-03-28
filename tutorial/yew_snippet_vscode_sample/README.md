@@ -61,6 +61,8 @@ Add the following snippet in the snippet JSON file:
 
 ## Rust-Yew extension
 
+https://marketplace.visualstudio.com/items?itemName=TechTheAwesome.rust-yew
+
 This is a work in progress, and community maintained project! Please see details and direct related bug reports / issues / questions over to the extension's repository
 
 Rust-Yew extension is avaliable on VSC Marketplace, providing syntax highlight, renames, hover, and more.
