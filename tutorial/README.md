@@ -1,3 +1,19 @@
+# Rust modules confusion when there is main.rs and lib.rs
+
+https://stackoverflow.com/questions/57756927/rust-modules-confusion-when-there-is-main-rs-and-lib-rs
+
+- src/utils/bar.rs:
+
+```
+
+use super::foo;
+// or use crate::utils::foo;
+
+pub fn bar() {
+    foo::say_foo();
+}
+```
+
 # Yew Turoial(Rust)
 
 https://yew.rs/docs/tutorial
