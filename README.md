@@ -237,3 +237,7 @@ Emmet support should work out of the box, if not please fall back to edditing th
     "rust": "html",
 }
 ```
+
+# Thanks to
+
+https://github.com/ShironCat/ShironCat.github.io
