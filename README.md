@@ -241,3 +241,7 @@ Emmet support should work out of the box, if not please fall back to edditing th
 # Thanks to
 
 https://github.com/ShironCat/ShironCat.github.io
+
+- Series
+
+  - https://youtube.com/playlist?list=PLWtPciJ1UMuBpRg1KbXqxE5WOdY9ze37S
